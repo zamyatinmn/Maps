@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Maps</string>
+    <string name="to_markers_btn">Markers</string>
+    <string name="rationale_title">Rationale</string>
+    <string name="rationale_text">I need that</string>
+    <string name="to_settings_title">Go to settings?</string>
+    <string name="to_settings_text">I really need that</string>
+    <string name="to_map_btn">To the map</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="delete_icon_description">Delete Icon</string>
 </resources>
